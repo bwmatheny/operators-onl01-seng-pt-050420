@@ -8,7 +8,7 @@ else true
 end
 end
 unsafe?(50)
-binding.pry
+
 
 
 def not_safe?(speed)
