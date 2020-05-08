@@ -7,7 +7,7 @@ return false
 else true
 end
 end
-unsafe(50)
+unsafe?(50)
 binding.pry
 
 
