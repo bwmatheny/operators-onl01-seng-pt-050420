@@ -13,7 +13,6 @@ def unsafe?(speed)
 		false
 	end
 end
-unsafe?(50)
 
 
 
